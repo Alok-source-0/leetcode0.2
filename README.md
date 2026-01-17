@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Alok-source-0/leetcode0.2/tree/master/0228-summary-ranges) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Alok-source-0/leetcode0.2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Alok-source-0/leetcode0.2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Alok-source-0/leetcode0.2/tree/master/0231-power-of-two) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Alok-source-0/leetcode0.2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Alok-source-0/leetcode0.2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Alok-source-0/leetcode0.2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
