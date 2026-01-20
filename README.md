@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Alok-source-0/leetcode0.2/tree/master/1895-largest-magic-square) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Alok-source-0/leetcode0.2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Alok-source-0/leetcode0.2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Alok-source-0/leetcode0.2/tree/master/0231-power-of-two) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
 | ------- |
