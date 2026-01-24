@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Alok-source-0/leetcode0.2/tree/master/0228-summary-ranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Alok-source-0/leetcode0.2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Alok-source-0/leetcode0.2/tree/master/1895-largest-magic-square) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Alok-source-0/leetcode0.2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Alok-source-0/leetcode0.2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
