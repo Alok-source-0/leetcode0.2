@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/0219-contains-duplicate-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Alok-source-0/leetcode0.2/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
 | ------- |
