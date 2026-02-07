@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Alok-source-0/leetcode0.2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Alok-source-0/leetcode0.2/tree/master/0232-implement-queue-using-stacks) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Alok-source-0/leetcode0.2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Alok-source-0/leetcode0.2/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Alok-source-0/leetcode0.2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Alok-source-0/leetcode0.2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
