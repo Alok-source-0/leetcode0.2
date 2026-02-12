@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Alok-source-0/leetcode0.2/tree/master/0011-container-with-most-water) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Alok-source-0/leetcode0.2/tree/master/0228-summary-ranges) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alok-source-0/leetcode0.2/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Alok-source-0/leetcode0.2/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Alok-source-0/leetcode0.2/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
