@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Alok-source-0/leetcode0.2/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Alok-source-0/leetcode0.2/tree/master/0231-power-of-two) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Alok-source-0/leetcode0.2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Alok-source-0/leetcode0.2/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
