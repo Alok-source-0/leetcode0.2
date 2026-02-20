@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Alok-source-0/leetcode0.2/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Alok-source-0/leetcode0.2/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Alok-source-0/leetcode0.2/tree/master/3634-minimum-removals-to-balance-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Alok-source-0/leetcode0.2/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Alok-source-0/leetcode0.2/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Alok-source-0/leetcode0.2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Alok-source-0/leetcode0.2/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Alok-source-0/leetcode0.2/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Alok-source-0/leetcode0.2/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
